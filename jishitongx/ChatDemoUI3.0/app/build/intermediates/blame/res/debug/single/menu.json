@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/chj/dashixun/huanxin/huanxin/examples/ChatDemoUI3.0/C:\\Users\\apple\\Documents\\senior\\huanxin\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\em_delete_message.xml",
+        "source": "/Users/chj/dashixun/huanxin/huanxin/examples/ChatDemoUI3.0/C:\\Users\\apple\\Documents\\senior\\huanxin\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\menu\\em_delete_message.xml"
+    },
+    {
+        "merged": "/Users/chj/dashixun/huanxin/huanxin/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/menu/em_delete_message.xml",
+        "source": "/Users/chj/dashixun/huanxin/huanxin/examples/ChatDemoUI3.0/app/src/main/res/menu/em_delete_message.xml"
+    },
+    {
+        "merged": "/Users/chj/dashixun/huanxin/huanxin/examples/ChatDemoUI3.0/C:\\Users\\apple\\Documents\\senior\\huanxin\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\em_context_contact_list.xml",
+        "source": "/Users/chj/dashixun/huanxin/huanxin/examples/ChatDemoUI3.0/C:\\Users\\apple\\Documents\\senior\\huanxin\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\menu\\em_context_contact_list.xml"
+    },
+    {
+        "merged": "/Users/chj/dashixun/huanxin/huanxin/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/menu/em_context_tab_contact.xml",
+        "source": "/Users/chj/dashixun/huanxin/huanxin/examples/ChatDemoUI3.0/app/src/main/res/menu/em_context_tab_contact.xml"
+    },
+    {
+        "merged": "/Users/chj/dashixun/huanxin/huanxin/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/menu/em_context_contact_list.xml",
+        "source": "/Users/chj/dashixun/huanxin/huanxin/examples/ChatDemoUI3.0/app/src/main/res/menu/em_context_contact_list.xml"
+    },
+    {
+        "merged": "/Users/chj/dashixun/huanxin/huanxin/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/menu/em_remove_from_blacklist.xml",
+        "source": "/Users/chj/dashixun/huanxin/huanxin/examples/ChatDemoUI3.0/app/src/main/res/menu/em_remove_from_blacklist.xml"
+    },
+    {
+        "merged": "/Users/chj/dashixun/huanxin/huanxin/examples/ChatDemoUI3.0/C:\\Users\\apple\\Documents\\senior\\huanxin\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\em_delete_contact.xml",
+        "source": "/Users/chj/dashixun/huanxin/huanxin/examples/ChatDemoUI3.0/C:\\Users\\apple\\Documents\\senior\\huanxin\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\menu\\em_delete_contact.xml"
+    },
+    {
+        "merged": "/Users/chj/dashixun/huanxin/huanxin/examples/ChatDemoUI3.0/C:\\Users\\apple\\Documents\\senior\\huanxin\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\em_context_tab_contact.xml",
+        "source": "/Users/chj/dashixun/huanxin/huanxin/examples/ChatDemoUI3.0/C:\\Users\\apple\\Documents\\senior\\huanxin\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\menu\\em_context_tab_contact.xml"
+    },
+    {
+        "merged": "/Users/chj/dashixun/huanxin/huanxin/examples/ChatDemoUI3.0/C:\\Users\\apple\\Documents\\senior\\huanxin\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\em_remove_from_blacklist.xml",
+        "source": "/Users/chj/dashixun/huanxin/huanxin/examples/ChatDemoUI3.0/C:\\Users\\apple\\Documents\\senior\\huanxin\\examples\\ChatDemoUI3.0\\app\\src\\main\\res\\menu\\em_remove_from_blacklist.xml"
+    },
+    {
+        "merged": "/Users/chj/dashixun/huanxin/huanxin/examples/ChatDemoUI3.0/app/build/intermediates/res/merged/debug/menu/em_delete_contact.xml",
+        "source": "/Users/chj/dashixun/huanxin/huanxin/examples/ChatDemoUI3.0/app/src/main/res/menu/em_delete_contact.xml"
+    }
+]
